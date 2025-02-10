@@ -21,40 +21,36 @@ const inputType = [
 	},
 	{
 		value: "checkbox",
-		label: "checkbox",
+		label: "Checkbox",
 	},
 	{
 		value: "password",
-		label: "password",
+		label: "Password",
 	},
 	{
 		value: "reset",
-		label: "reset",
+		label: "Reset",
 	},
 	{
 		value: "button",
-		label: "button",
+		label: "Button",
 	},
 	{
 		value: "image",
-		label: "image",
+		label: "Image",
 	},
 	{
 		value: "datalist",
-		label: "datalist",
+		label: "Datalist",
 	},
 	{
 		value: "submit",
-		label: "submit",
+		label: "Submit",
 	},
 	{
 		value: "label",
-		label: "label",
-	},
-	{
-		value: "button",
-		label: "button",
-	},
+		label: "Label",
+	}
 ];
 
 export default inputType;
