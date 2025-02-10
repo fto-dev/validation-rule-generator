@@ -6,9 +6,14 @@ import inputTypes from "../../utils/inputTypes";
 
 export default function inputTypeList({
 	defaultValue = inputTypes[0]?.value || "",
-	options = inputTypes,
 	...rest
 }) {
+
+	const exeptionList = ['button','reset', 'submit'];
+	const options = inputTypes.filter((item)=> {
+		return exeptionList.indexOf(item.value) == -1;
+	})
+
 	return (
 		<Select
 			defaultValue={defaultValue}
