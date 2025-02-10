@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/validation-rule-generator/static/css/main.f73981a2.css",
-    "main.js": "/validation-rule-generator/static/js/main.798246f5.js",
+    "main.js": "/validation-rule-generator/static/js/main.90daadbe.js",
     "static/js/787.d47a26c0.chunk.js": "/validation-rule-generator/static/js/787.d47a26c0.chunk.js",
     "index.html": "/validation-rule-generator/index.html",
     "main.f73981a2.css.map": "/validation-rule-generator/static/css/main.f73981a2.css.map",
-    "main.798246f5.js.map": "/validation-rule-generator/static/js/main.798246f5.js.map",
+    "main.90daadbe.js.map": "/validation-rule-generator/static/js/main.90daadbe.js.map",
     "787.d47a26c0.chunk.js.map": "/validation-rule-generator/static/js/787.d47a26c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f73981a2.css",
-    "static/js/main.798246f5.js"
+    "static/js/main.90daadbe.js"
   ]
 }
